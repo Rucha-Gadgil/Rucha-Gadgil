@@ -12,50 +12,31 @@ I'm an electrical engineering student at IIT Indore with a focus on digital desi
 
 ## Projects
 
-### [FPGA-Based Autonomous Maze Solver ](https://github.com/Rucha-Gadgil/eYRC_MazeBot_FPGA)
+### [FPGA-Based Autonomous Maze Solver](https://github.com/Rucha-Gadgil/eYRC_MazeBot_FPGA)
 *e-Yantra Robotics Competition, IIT Bombay · Aug 2025 – Feb 2026*
 
-Autonomous maze-solving robot implemented on a De0-Nano FPGA board.
-- Implemented DFS and Tremaux algorithms for real-time 9×9 grid navigation
-- Integrated IR sensors, ultrasonic distance sensors, and quadrature encoders for perception and closed-loop motion control
-- Designed CDC synchronization between 50 MHz and 3.125 MHz clock domains using 3-stage flip-flop synchronizers
-- Debugged hardware using SignalTap logic analyzer; enabled UART-based wireless telemetry over Bluetooth
-- Reached the final stage of eYRC 2025–26
+Autonomous maze-solving robot on a De0-Nano FPGA using DFS and Tremaux algorithms for real-time 9×9 grid navigation. Integrated IR, ultrasonic, and encoder-based motion control with CDC synchronization across 50 MHz / 3.125 MHz clock domains. Reached the final stage of eYRC 2025–26.
 
 ---
 
 ### [8-bit Pipelined Microprocessor in Verilog](https://github.com/Rucha-Gadgil/8-bit-Pipelined-microprocessor-)
-*Electronics Club, IIT Indore · June – Aug 2025*
+*Electronics Club, IIT Indore · June – Aug 2025 · **Silver Medal, IITISoC 2025***
 
-**Silver Medal — IITISoC 2025, Science and Technology Council**
-
-RTL design of an 8-bit pipelined processor with a custom RISC-V style ISA.
-- Designed multi-stage pipeline datapath; implemented ALU, register file, control unit, and memory blocks
-- Built hazard handling: data forwarding, stall insertion, and hazard detection logic
-- Verified design using self-written testbenches in ModelSim
-- Studied static timing analysis (STA) concepts and 8085 microprocessor architecture as part of the design process
+RTL design of an 8-bit pipelined processor with a custom RISC-V style ISA. Implemented full pipeline datapath with ALU, register file, control unit, and hazard handling (forwarding, stalling, detection).
 
 ---
 
-### Buck Converter Design and Implementation · *Ongoing*
+### Buck Converter Design and Implementation *(Ongoing)*
 *Power Electronics Course Project*
 
-Hardware design of a synchronous buck converter (10 V → 2–8 V adjustable output).
-- Designed control circuit using TL494 PWM controller and gate driver
-- Designed and fabricated custom PCB
-- Analyzed CCM and DCM waveforms at 20 kHz; demonstrated DCM transition via frequency reduction
-- Validated waveform behavior against theoretical predictions with hardware measurements
+Hardware design of a buck converter (10 V → 2–8 V) using TL494 and a custom PCB. Validated CCM/DCM waveforms at 20 kHz against theoretical predictions with hardware measurements.
 
 ---
 
 ### [Closed-Loop Boost Converter with PID](https://github.com/Rucha-Gadgil/Closed-Loop-Control-on-a-Boost-Converter-using-PID)
 *EESA, IIT Indore · Dec 2024 – Jan 2025*
 
-MATLAB Simulink simulation of a DC-DC boost converter with closed-loop PID control.
-- Tuned PID parameters for stable output voltage regulation under varying load conditions
-- Analyzed system step response and frequency-domain behavior
-
----
+MATLAB Simulink simulation of a PID-controlled DC-DC boost converter with tuned output voltage regulation and step response analysis.
 
 ## Technical Skills
 
@@ -71,18 +52,8 @@ MATLAB Simulink simulation of a DC-DC boost converter with closed-loop PID contr
 - **Silver Medal** — 8-bit Pipelined Microprocessor, IITISoC 2025 (Science and Technology Council, IIT Indore)
 - **Second Position** — Winter Project, EESA 2024
 - **eYRC Finalist** — FPGA-Based Maze Solver, IIT Bombay 2025–26 (reached final stage)
-- **AIR 6919** — JEE Advanced 2024
-- **AIR 4933** (99.69 %ile) — JEE Mains 2024
 
 ---
 
-## Positions of Responsibility
-
-- **Member** — Electronics Club, IIT Indore *(Sept 2024 – Present)*
-- **USG Executive Board** — Model United Nations, IIT Indore *(Mar 2025 – Jan 2026)*
-- **Core Member** — The Debating Society, IIT Indore *(Feb 2025 – Present)*
-- **Member** — E-Cell, IIT Indore *(Jan 2024 – Present)*
-
----
 
 *Last updated May 2026*
