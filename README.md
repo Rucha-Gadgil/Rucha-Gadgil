@@ -1,8 +1,5 @@
 # Rucha Gadgil
 
-[LinkedIn](https://www.linkedin.com/in/rucha-gadgil-92b5ba333/?isSelfProfile=true) · [Email](mailto:ruchagadgil07@gmail.com)
-
----
 
 ## About
 
@@ -40,18 +37,19 @@ MATLAB Simulink simulation of a PID-controlled DC-DC boost converter with tuned 
 
 ## Technical Skills
 
-**HDL / Design:** Verilog · RTL Design · Digital Logic · Basics of Computer Architecture · 8085 Microprocessor · Static Timing Analysis  
-**Tools:** Intel Quartus Prime · Xilinx Vivado · ModelSim · MATLAB/Simulink · LTspice · Fusion 360  
-**Hardware:** De0-Nano FPGA · L298N Motor Driver · HC-SR04 · DHT22 · TL494  
-**Languages:** C · C++
+| Category | Skills |
+|---|---|
+| HDL / Design | Verilog · RTL Design · Digital Logic · Computer Architecture · 8085 Microprocessor · Static Timing Analysis |
+| Tools | Intel Quartus Prime · Xilinx Vivado · ModelSim · MATLAB/Simulink · LTspice |
+| Hardware | De0-Nano FPGA · L298N Motor Driver · HC-SR04 · DHT22 · TL494 |
+| Languages | C · C++ |
 
----
 
 ## Achievements
 
 - **Silver Medal** — 8-bit Pipelined Microprocessor, IITISoC 2025 (Science and Technology Council, IIT Indore)
 - **Second Position** — Winter Project, EESA 2024
-- **eYRC Finalist** — FPGA-Based Maze Solver, IIT Bombay 2025–26 (reached final stage)
+- **eYRC Finalist** — FPGA-Based Maze Solver, IIT Bombay 2025–26 
 
 ---
 
